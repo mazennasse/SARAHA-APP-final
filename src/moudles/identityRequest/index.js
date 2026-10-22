@@ -1,0 +1,1 @@
+export {default as identityRequest} from "./identityRequest.controller.js"
